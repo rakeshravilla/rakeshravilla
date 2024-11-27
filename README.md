@@ -1,7 +1,7 @@
 
 ## <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="rakeshravilla" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rakesh-ravilla/?trk=profile-badge">Rakesh Ravilla</a> - Data Engineer </div> 
 
-Data Engineer focused on cloud data solutions
+Data Engineer focused on AWS cloud data solutions
 
 ## Summary
 
